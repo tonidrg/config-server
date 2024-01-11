@@ -1,0 +1,9 @@
+server:
+  port: 8003
+
+temperature:
+  unit: C
+
+microservices:
+  humidity: humidity-microservice
+  temperature: temperature-microservice
